@@ -12,7 +12,7 @@ using s6464_KolokwiumPoprawa.Data;
 namespace s6464_KolokwiumPoprawa.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20260621143514_InitialCreate")]
+    [Migration("20260621145825_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
